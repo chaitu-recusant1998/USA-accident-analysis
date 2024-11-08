@@ -1,3 +1,5 @@
+Link to Dataset : https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
+
 Exploratory Data Analysis (EDA) on Car Accident Data
 
 This project involves the analysis of a comprehensive car accident dataset covering 49 U.S. states, with data collected from February 2016 to March 2023. The dataset, sourced from multiple APIs providing real-time traffic incident data, contains approximately 7.7 million accident records.
